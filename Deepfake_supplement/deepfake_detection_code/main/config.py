@@ -1,0 +1,2 @@
+DEVICE = 'cuda:0'
+IMGSIZE = (224, 224)
