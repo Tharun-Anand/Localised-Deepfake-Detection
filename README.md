@@ -1,5 +1,5 @@
 # Detecting Localized Deepfake Manipulations Using Action Unit-Guided Video Representations
-# CVPR Paper ID: 13056
+# Paper is currently under review(Training code will be released upon acceptance)
 
 ![Overview](assets/images/outline.png)
 
